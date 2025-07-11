@@ -3,10 +3,10 @@ package ezio
 import (
 	"gioui.org/layout"
 	"gioui.org/x/richtext"
-	"github.com/ezydark/ezMsg/src/ezio/colors"
-	"github.com/ezydark/ezMsg/src/ezio/components"
-	"github.com/ezydark/ezMsg/src/ezio/layouts"
-	"github.com/ezydark/ezMsg/src/ezio/layouts/flex"
+	"github.com/ezydark/ezio/colors"
+	"github.com/ezydark/ezio/components"
+	layouts "github.com/ezydark/ezio/layout"
+	"github.com/ezydark/ezio/layout/flex"
 )
 
 // --- Colors ---
